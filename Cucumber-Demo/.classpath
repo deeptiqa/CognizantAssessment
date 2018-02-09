@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/cucumber/cucumber-reporting-3.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/cucumber/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/selenium-java-3.6.0/client-combined-3.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/selenium-java-3.6.0/client-combined-3.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/selenium-java-3.6.0/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/selenium-java-3.6.0/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/selenium-java-3.6.0/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/selenium-java-3.6.0/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/selenium-java-3.6.0/libs/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/selenium-java-3.6.0/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/selenium-java-3.6.0/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/selenium-java-3.6.0/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/selenium-java-3.6.0/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_JarFiles_Latest/selenium-java-3.6.0/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
